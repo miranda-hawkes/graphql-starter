@@ -1,0 +1,14 @@
+# General files
+.DS_Store
+
+# IDE files
+/.idea
+/*.iml
+/*.ipr
+*.iws
+/.idea_modules
+
+# sbt files
+target
+project/project
+project/target
