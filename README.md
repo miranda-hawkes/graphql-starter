@@ -1,8 +1,6 @@
-## HowToGraph - GraphQL with Sangria Tutorial codebase
+## GraphQL
 
-A code for GraphQL-Sangria Tutorial. Visit [HowtoGraphql.com](http://howtographql.com) to learn more.  
-
-### Running the example
+### Running
 
 ```bash
 sbt ~reStart
